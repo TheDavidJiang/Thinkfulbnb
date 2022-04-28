@@ -179,6 +179,10 @@ footer p {
     flex-wrap: wrap;
   }
 
+  button{
+    justify-content: flex-end;
+  }
+
   form div{
     flex-direction: column;
   }
